@@ -76,7 +76,7 @@ The results reveal valuable patterns about the top-paying remote data analyst ro
 
 - **Diverse Employers**: These top-paying roles come from a range of organizations — from tech giants like **Meta** and **AT&T** to smaller firms like **SmartAsset** and **Mantys** — demonstrating the cross-industry demand for data expertise.
 
-![Top Paying Roles](assets\chart.png)
+![Top Paying Roles](assets/chart.png)
 *This chart shows the top 10 highest-paying remote data analyst roles, highlighting job titles and their average salaries.*
 
 
@@ -121,7 +121,7 @@ ORDER BY salary_year_avg DESC
 
 ---
 
-![Top Paying Roles](assets\chart_2.png)
+![Top Skills Per Pay](assets/chart_2.png)
 *This chart shows the most frequently mentioned skills across the top 10 highest-paying remote data analyst roles.*
 
 
@@ -154,7 +154,7 @@ LIMIT 5
 
 ---
 
-![Top Paying Roles](assets\chart_3.png)
+![High Demand Skills](assets/chart_3.png)
 *This chart illustrates the top 5 most in-demand skills among remote data analyst roles, showing the relative frequency of each skill based on job listings.* 
 
 
